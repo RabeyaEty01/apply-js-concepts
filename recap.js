@@ -44,3 +44,15 @@ function isMoonUp(time){
 }
 
 var moonStatus =isMoonUp(21);
+
+
+//let const
+
+//value of variable could change
+let price = 27; //eta mne variable er maan ta change korte pari
+price=29;
+price=31;
+
+//value of the variable will not change
+const myName="lal a lal mr. Helal"; //eta mne ei variable er value ta change hobena ,constent thakbe.
+console.log(myName);
