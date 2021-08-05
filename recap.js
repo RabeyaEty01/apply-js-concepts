@@ -56,3 +56,10 @@ price=31;
 //value of the variable will not change
 const myName="lal a lal mr. Helal"; //eta mne ei variable er value ta change hobena ,constent thakbe.
 console.log(myName);
+
+
+
+//variable 3 vabe declare kora jay
+//1. var
+//2. let
+//3.const
